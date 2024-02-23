@@ -9,7 +9,8 @@ Check digit: https://youtu.be/utf-QGfs36Q
 File.io(non delimited): https://youtu.be/tp0Eh0jMwZk
 
 ( finish the video but reach video upload limit on youtube, will update when i can)
-
+video link
+https://drive.google.com/drive/u/1/folders/1qowKDJUkl52vHy6EGD7tFqWufAbvTdfQ
 
 
 
