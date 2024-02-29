@@ -7,6 +7,19 @@ Dictionary: https://youtu.be/VLVNkgPi7pk
 Data validation: https://youtu.be/HRz9eETwBgE
 Check digit: https://youtu.be/utf-QGfs36Q
 File.io(non delimited): https://youtu.be/tp0Eh0jMwZk
+File.io(csv): https://youtu.be/JiEzdBoyPmg
+File.io(json):
+linear search and binary search: https://youtu.be/zTT1Ve1WHRg
+OOP theory: https://youtu.be/rvTRk46oNIE
+OOP practical 1: https://youtu.be/JiEzdBoyPmg
+OOP practical 2: https://youtu.be/CiRVX5ewu0k
+Bubble sort: https://youtu.be/qhbnY-5WPBw
+Insertion sort: https://youtu.be/nQVrcs0b0jI
+Quick sort: https://youtu.be/XDDhcHSN7mc
+Merge sort: https://youtu.be/yY_qMzzSl-w
+Linked list 1: https://youtu.be/N5sf0LzhIik
+Linked list 2: https://youtu.be/wMrkx86mTF4
+Stack and Queue: 
 
 ( finish the video but reach video upload limit on youtube, will update when i can)
 video link
@@ -52,11 +65,11 @@ If both player cards exceed 21 points, it results in a draw
 9. explain the term encapsulation, inheritance and polymorphism
 10. Write a class Bankaccount with the constructor method with getters and setters with deposit and withdraw method
 11. Create a child class saving account from the Bank account that inherit its method and attribute
-12. implement linear search and binary search
-13. implement bubble sort
-14. implement insertion sort
-15. implement quick sort
-16. implement merge sort
-17. implement linked list with node class and linkedlist class
+12. implement linear search and binary search, describe the algorithm
+13. implement bubble sort, describe the algorithm
+14. implement insertion sort, describe the algorithm
+15. implement quick sort, describe the algorithm
+16. implement merge sort, describe the algorithm
+17. implement linked list with node class and linkedlist class and explain what is node class used for
 In the linkedlist class, implement function, insert head, insert tail, delete head delete tail
-18. implement stack and queue classes
+18. implement stack and queue classes explain what is meant by FIFO LIFO
